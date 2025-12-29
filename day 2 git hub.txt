@@ -1,0 +1,60 @@
+What Is an IP Address?
+
+An IP address (Internet Protocol address) is a unique numerical identifier assigned to every device connected to a computer network that uses the Internet Protocol.
+Why IP Addresses Are Important
+
+Device Identification
+
+Every device (computer, mobile, server, router) needs an IP address to be uniquely identified on a network.
+
+Communication Between Systems
+
+IP addresses ensure data packets are sent from the correct source to the correct destination, enabling smooth communication over the internet.
+
+Routing of Data
+
+Routers use IP addresses to determine the best path for data to travel across networks.
+
+Network Security & Investigation
+
+Helps in tracking suspicious logins, tracing attackers, and detecting unauthorized access.
+
+Used in log analysis, intrusion detection, and forensic investigations.
+
+Location Identification (Approximate)
+
+IP addresses can indicate geographical location (country, city, ISP), useful for access control and fraud detection.
+Types of IP Addresses
+
+IPv4 – 32-bit address (Example: 192.168.1.1)
+
+IPv6 – 128-bit address (Example: 2001:db8::1)
+
+Public vs Private IP
+
+Public IP – Used to communicate over the internet
+
+Private IP – Used within local networks (home, office)
+IP Ranges
+
+IP ranges are blocks of IP addresses assigned to networks. They define which IPs can be used for private networks (like 192.168.0.0–192.168.255.255) and public internet communication.
+
+Domain Names
+
+A domain name is a human-readable name (e.g., google.com) that represents the IP address of a server, making websites easier to access.
+
+Domain Structure
+
+Domain structure is the hierarchical organization of a domain name, such as Top-Level Domain (TLD) (.com), Second-Level Domain (google), and subdomains (www).
+
+DNS Importance
+
+DNS (Domain Name System) translates domain names into IP addresses, enabling users to access websites without remembering numerical IPs.
+
+Ports
+
+A port is a logical endpoint that identifies specific services or applications running on a device (e.g., Port 80 for HTTP, Port 443 for HTTPS).
+
+Protocols
+
+Protocols are standard rules that govern data communication between devices on a network, such as HTTP, FTP, TCP, and UDP
