@@ -1,0 +1,25 @@
+DVWA using XAMPP (Windows / Linux)
+Step 1: Install XAMPP
+Download from:
+https://www.apachefriends.org
+Install and start:
+Apache
+MySQL
+Step 2: Download DVWA
+git clone https://github.com/digininja/DVWA.git
+Move DVWA folder to:
+xampp/htdocs/dvwa
+Step 3: Create Database
+Open browser:
+http://localhost/phpmyadmin
+Create database:
+dvwa
+Step 4: Configure DVWA
+Rename:
+config/config.inc.php.dist → config.inc.php
+Edit:
+$_DVWA['db_user'] = 'root';
+$_DVWA['db_password'] = '';
+$_DVWA['db_database'] = 'dvwa';
+Step 5: Set Security Level
+Login → DVWA Security → set Low
